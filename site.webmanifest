@@ -1,0 +1,13 @@
+{
+  "name": "DJ MANY — Live in Japan, IRL on Kick",
+  "short_name": "DJ MANY JP",
+  "description": "Gold/Platinum-winning DJ touring Japan, streaming it live on Kick. Drinks, smokes, music.",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0a0505",
+  "background_color": "#0a0505",
+  "display": "browser",
+  "start_url": "/"
+}
